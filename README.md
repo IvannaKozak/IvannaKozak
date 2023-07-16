@@ -1,20 +1,20 @@
-##### Hi there! 👋
+### Hi there! 👋
 I'm Ivanna Kozak, a passionate programmer from Ukraine 💻🇺🇦
 
 ## About Me:
-🎓 I'm currently studying Artificial Intelligence at University.
-🌱 I'm on an ongoing learning journey, currently exploring the world of Flutter and app development.
-🚀 I'm working on some exciting pet-projects to apply my knowledge and fuel my passion for coding.
-💼 I'm open to new opportunities and looking forward to applying my skills in real-world projects.
-💬 Feel free to ask me about anything related to my studies, programming, or Flutter. I'm here to learn and help!
-📫 How to reach me: linkedin.com/in/ivanna-kozak-ai
+🎓 I'm currently studying Artificial Intelligence at University. <br>
+🌱 I'm on an ongoing learning journey, currently exploring the world of Flutter and app development. <br>
+🚀 I'm working on some exciting pet-projects to apply my knowledge and fuel my passion for coding. <br>
+💼 I'm open to new opportunities and looking forward to applying my skills in real-world projects. <br>
+💬 Feel free to ask me about anything related to my studies, programming, or Flutter. I'm here to learn and help! <br>
+📫 How to reach me: linkedin.com/in/ivanna-kozak-ai <br>
 
 ## Skills
-Programming: Python, Dart, C++
-Mobile App Development: Flutter
-AI: Machine Learning, Deep Learning
+Programming: Python, Dart, C++ <br>
+Mobile App Development: Flutter <br>
+AI: Machine Learning, Deep Learning <br>
 
-Fun fact:
+Fun fact: <br>
 I love solving puzzles and it's part of the reason why I enjoy programming so much. It's like solving a new puzzle every day!
 Stay tuned for more updates on my projects and learning journey! Thanks for stopping by! 😄
 
