@@ -18,7 +18,7 @@ AI: Machine Learning, Deep Learning <br>
 I love solving puzzles and it's part of the reason why I enjoy programming so much. It's like solving a new puzzle every day!
 Stay tuned for more updates on my projects and learning journey! Thanks for stopping by! 😊
 
-<!--
+
 **IvannaKozak/IvannaKozak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -31,4 +31,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
