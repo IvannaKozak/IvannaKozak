@@ -1,21 +1,21 @@
 ### Hi there! 👋
-I'm Ivanna Kozak, a passionate AI Engineer from Ukraine 💻 🇺🇦
+I'm Ivanna Lysyshak (Kozak), CEO of AI Studio Kija, and a passionate AI Engineer from Ukraine 💻 🇺🇦
 
 ## About Me:
-🎓 I'm currently working on an Ed-Tech startup. <br>
+🎓 I'm currently working on my own product - an app for couples called Partnero AI: [https://partneroai.com/](https://partneroai.com/) <br>
 💼 I'm always open to new opportunities and looking forward to applying my skills to make this world a better place. <br>
-💬 Feel free to ask me about anything related to AI! I'm here to learn and help! <br>
-📫 How to reach me: [linkedin.com/in/ivanna-kozak-ai](https://www.linkedin.com/in/ivanna-kozak-ai) <br>
+💬 Feel free to ask me about anything related to AI! I'm here to help! <br>
+📫 How to reach me: My LinkedIn [linkedin.com/in/ivanna-kozak-ai](https://www.linkedin.com/in/ivanna-kozak-ai) <br>
 
 ## My skills:
-AI: Machine Learning, Deep Learning, Generative AI <br>
-Programming: Python, PyTorch, Tensorflow <br>
-Mobile App Development: Flutter <br>
-
+AI: Generative AI, LLMs, AI Agents, Automation <br>
+Programming: Python, FastAPI, PostgreSQL, SQLite<br>
+Mobile App Development: Flutter, React Native <br>
 
 ## Fun fact:
 I love solving puzzles, and it's part of the reason why I enjoy programming so much. It's like solving a new puzzle every day!
-Stay tuned for more updates on my projects and learning journey! Thanks for stopping by! 😊
+
+Thanks for stopping by! 😊
 
 <!--
 **IvannaKozak/IvannaKozak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
