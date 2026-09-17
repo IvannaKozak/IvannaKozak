@@ -17,7 +17,7 @@ I love solving puzzles, and it's part of the reason why I enjoy programming so m
 
 Thanks for stopping by! 😊
 
-<!--
+
 **IvannaKozak/IvannaKozak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,4 +30,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
